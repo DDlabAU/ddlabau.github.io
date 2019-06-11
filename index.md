@@ -16,8 +16,15 @@ Værktøjer der kan gøre din dag, kode eller dims lidt nemmere eller federe.
 <p><a href="https://github.com/DDlabAU/Laser-Cutter-Things">Laser-Cutter-Things</a></p>
 
 ## Eksempler
-Fede projekter vi har fundet eller selv har bygget i lab’et. Hvis der mangler dokumentation eller der er noget du ikke helt forstår, så kom forbi.</p>
-<a href="https://github.com/DDlabAU/volume">Ultrasound based power control</a>  
-<a href="https://github.com/DDlabAU/Using-shift-register">tpic6b595 Shift register example 	code</a>  
-<a href="https://github.com/DDlabAU/lab-botto">A lasercut robot with an 8x8 neopixel square for guts</a>  
-<a href="https://github.com/DDlabAU/Realtime-clock-breakout-ddlab-opening-hours">Realtime Clock example code and tutorial link
+Fede projekter vi har fundet eller selv har bygget i lab’et. Hvis der mangler dokumentation eller der er noget du ikke helt forstår, så kom forbi.
+
+[Ultrasound based power control](https://github.com/DDlabAU/volume)  
+  
+[tpic6b595 Shift register example code](https://github.com/DDlabAU/Using-shift-register)  
+    
+[A lasercut robot with an 8x8 neopixel square for guts](https://github.com/DDlabAU/lab-botto)  
+  
+[Realtime Clock example code and tutorial link](https://github.com/DDlabAU/Realtime-clock-breakout-ddlab-opening-hours)  
+
+
+
