@@ -2,14 +2,15 @@
 layout: default
 ---
 
-
 # Digital Design Lab på Aarhus Universitet  
-Velkommen til DDLab’s side på github. Her vil du kunne finde en blanding af ting produceret af de ansatte i lab'et og links til ting vi finder lærerige, anvendelige eller interessante.</p>
-De egenproducerede ting du finder nedenfor er de, som vi i lab’et mener enten er færdige og/eller veldokumenterede nok til at de kan være dig til hjælp. Hvis du af uransagelige grunde har lyst til at se resten, kan det findes her: [github.com/ddlabau](http://github.com/ddlabau)  
-Hvis du synes der mangler en guide til en specifik teknologi, finder et link der ikke virker, eller bare sidder med det fedeste link vi ikke selv har fundet, så kom forbi lab’et og tag en snak med os.</p>
+Velkommen til DDLab’s side på github. Her vil du kunne finde en blanding af ting produceret af de ansatte i lab'et og links til ting vi finder lærerige, anvendelige eller interessante.
+
+De egenproducerede ting du finder nedenfor er de, som vi i lab’et mener enten er færdige og/eller veldokumenterede nok til at de kan være dig til hjælp. Hvis du af uransagelige grunde har lyst til at se resten, kan det findes her: [github.com/ddlabau](http://github.com/ddlabau)
+
+Hvis du synes der mangler en guide til en specifik teknologi, finder et link der ikke virker, eller bare sidder med det fedeste link vi ikke selv har fundet, så kom forbi lab’et og tag en snak med os.
 
 ## Vejledninger
-Her finder du vejledninger til nogle af de teknologier der udbydes i labbet.</p>
+Her finder du vejledninger til nogle af de teknologier der udbydes i labbet.
 
 ## Tools
 Værktøjer der kan gøre din dag, kode eller dims lidt nemmere eller federe.  
@@ -19,12 +20,12 @@ Værktøjer der kan gøre din dag, kode eller dims lidt nemmere eller federe.
 ## Eksempler
 Fede projekter vi har fundet eller selv har bygget i lab’et. Hvis der mangler dokumentation eller der er noget du ikke helt forstår, så kom forbi.
 
-[Ultrasound based power control](https://github.com/DDlabAU/volume)  
-  
+[Ultrasound based power control](https://github.com/DDlabAU/volume)
+
 [tpic6b595 Shift register example code](https://github.com/DDlabAU/Using-shift-register)  
-    
-[A lasercut robot with an 8x8 neopixel square for guts](https://github.com/DDlabAU/lab-botto)  
-  
+
+[A lasercut robot with an 8x8 neopixel square for guts](https://github.com/DDlabAU/lab-botto)
+
 [Realtime Clock example code and tutorial link](https://github.com/DDlabAU/Realtime-clock-breakout-ddlab-opening-hours)  
 
 
