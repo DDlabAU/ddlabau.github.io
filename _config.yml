@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Digital Design Lab, Aarhus Universitet
 description: En overbliksside over DD Labs guides og eksempler
 # logo: [Location of the logo]
-show_downloads: "false"
+show_downloads: false
