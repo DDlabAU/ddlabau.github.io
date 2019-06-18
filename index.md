@@ -24,7 +24,7 @@ Her finder du vejledninger til nogle af de teknologier der udbydes i labbet.
 ## Maskiner
 Guides til og information om lab'ets større maskiner
 
-[Lasercutting](https://github.com/DDlabAU/Laser-Cutter-Things)
+[Lasercutting](http://ddlabau.github.io/lasercutter/)
 
 [3D Print](https://github.com/DDlabAU/3DPrinter)
 
