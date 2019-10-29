@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# Digital Design Lab på Aarhus Universitet  
-Velkommen til DDLab’s side på github. Her finder du links, vejledning og eksempelkode til nogle af de teknologier og maskiner vi har til rådighed i lab'et. 
+# Teknologier, Maskiner & Vejledninger  
+Her finder du links, vejledninger og eksempelkode til nogle af de teknologier og maskiner vi har til rådighed i lab'et. Indholdet er kurateret fra vores github-side. Hvis du har lyst til at se alle vores (også ufærdige) repositories, kan du gøre det [her](https://github.com/DDlabAU). 
 
 
 ## Vejledninger og eksempelkode
@@ -35,7 +35,7 @@ Guides til og information om lab'ets større maskiner
 
 
 ## Eksempler
-Fede projekter vi har fundet eller selv har bygget i lab’et. Hvis der mangler dokumentation eller der er noget du ikke helt forstår, så kom forbi.
+Projekter bygget i lab'et, der showcaser en eller flere teknologier. Hvis der mangler dokumentation, eller der er noget du ikke helt forstår, så kom forbi i [lab'ets åbningstid](http://ddlab.au.dk/%C3%A5bningstider/).
 
 [Ultrasound based power control](https://github.com/DDlabAU/volume)
 
