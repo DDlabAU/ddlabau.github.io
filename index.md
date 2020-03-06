@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Teknologier, Maskiner & Vejledninger  
 Her finder du links, vejledninger og eksempelkode til nogle af de teknologier og maskiner vi har til rådighed i lab'et. Indholdet er kurateret fra vores github-side. Hvis du har lyst til at se alle vores (også ufærdige) repositories, kan du gøre det [her](https://github.com/DDlabAU). 
 
