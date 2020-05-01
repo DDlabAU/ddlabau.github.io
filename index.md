@@ -1,5 +1,5 @@
 # Teknologier, Maskiner & Vejledninger  
-Her finder du links, vejledninger og eksempelkode til nogle af de teknologier og maskiner vi har til rådighed i lab'et. Indholdet er kurateret fra vores github-side. Hvis du har lyst til at se alle vores (også ufærdige) repositories, kan du gøre det [her](https://github.com/DDlabAU). 
+Her finder du links, vejledninger og eksempelkode til nogle af de teknologier og maskiner vi har til rådighed i lab'et. Indholdet er kurateret fra vores github-side. Hvis du har lyst til at se alle vores (også ufærdige) repositories, kan du gøre det [her](https://github.com/DDlabAU).
 
 
 ## Vejledninger og eksempelkode
@@ -22,14 +22,20 @@ Her finder du vejledninger og eksempelkode til nogle af de teknologier der udbyd
 [Guide til Lyd og Interaktion - Pre-amp & Smokey Amp](https://github.com/DDlabAU/LM386-Forstaerker-Chip)
 
 
-## Maskiner
-Guides til og information om lab'ets større maskiner
-
-[Lasercutting](http://ddlabau.github.io/lasercutter/)
+## Maskiner og tools
+Guides til og information om lab'ets maskiner og tools.
 
 [3D Print](https://github.com/DDlabAU/3DPrinter)
 
+[3D Scanning](https://github.com/DDlabAU/structure-sensor-3d-scanner)
+
 [CNC-Fræsning](https://github.com/DDlabAU/carving)
+
+[GoPro Kameraer](https://github.com/DDlabAU/go-pro-kamera-og-udstyr)
+
+[Lasercutting](http://ddlabau.github.io/lasercutter/)
+
+[Plotter](https://github.com/DDlabAU/plotter/)
 
 
 ## Eksempler
