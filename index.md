@@ -13,13 +13,13 @@ Her finder du vejledninger og eksempelkode til nogle af de teknologier der udbyd
 
 [Polar Pulssensor](https://github.com/DDlabAU/heart-rate-sensor)
 
-[Timing i Arduino](https://github.com/DDlabAU/Timing-i-Arduino)
+[Timing i Arduino](https://github.com/DDlabAU/timing-i-arduino)
 
-[Kommunikation med Infrarød](https://github.com/DDlabAU/INFRARED-Kommunikation)
+[Kommunikation med Infrarød](https://github.com/DDlabAU/infrared-kommunikation)
 
 [ePaper displays til Arduino](https://github.com/DDlabAU/ePaper/tree/master/Adafruit%201.54''%20tri-color%20ePaper%20display)
 
-[Guide til Lyd og Interaktion - Pre-amp & Smokey Amp](https://github.com/DDlabAU/LM386-Forstaerker-Chip)
+[Guide til Lyd og Interaktion - Pre-amp & Smokey Amp](https://github.com/DDlabAU/lm386-forstaerker-chip)
 
 
 ## Maskiner og tools
