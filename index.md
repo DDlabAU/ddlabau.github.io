@@ -27,7 +27,7 @@ Her finder du vejledninger og eksempelkode til nogle af de teknologier der udbyd
 ## Maskiner og tools
 Guides til og information om lab'ets maskiner og tools.
 
-[3D Print](https://github.com/DDlabAU/3DPrinter)
+[3D Print](https://ddlabau.github.io/3dprinter/)
 
 [3D Scanning](https://github.com/DDlabAU/structure-sensor-3d-scanner)
 
