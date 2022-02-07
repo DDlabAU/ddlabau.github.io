@@ -31,7 +31,7 @@ Guides til og information om lab'ets maskiner og tools.
 
 [3D Scanning](https://github.com/DDlabAU/structure-sensor-3d-scanner)
 
-[CNC-Fræsning](https://github.com/DDlabAU/carving)
+[CNC-Fræsning](https://ddlabau.github.io/carving/)
 
 [GoPro Kameraer](https://github.com/DDlabAU/go-pro-kamera-og-udstyr)
 
