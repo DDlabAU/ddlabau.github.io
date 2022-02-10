@@ -41,7 +41,7 @@ Guides til og information om lab'ets maskiner og tools.
 
 
 ## Eksempler
-Projekter bygget i lab'et, der showcaser en eller flere teknologier. Hvis der mangler dokumentation, eller der er noget du ikke helt forstår, så kom forbi i [lab'ets åbningstid](http://ddlab.au.dk/%C3%A5bningstider/).
+Projekter bygget i lab'et, der showcaser en eller flere teknologier. Hvis der mangler dokumentation, eller der er noget du ikke helt forstår, så kom forbi i [lab'ets åbningstid](https://ddlab.au.dk/).
 
 [Ultrasound based power control](https://github.com/DDlabAU/volume)
 
