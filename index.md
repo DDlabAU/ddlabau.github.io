@@ -1,5 +1,7 @@
-# Teknologier, Maskiner & Vejledninger  
+# Vejledninger til Teknologier & Maskiner  
 Her finder du links, vejledninger og eksempelkode til nogle af de teknologier og maskiner vi har til rådighed i lab'et. Indholdet er kurateret fra vores github-side. Hvis du har lyst til at se alle vores (også ufærdige) repositories, kan du gøre det [her](https://github.com/DDlabAU).
+
+[Se også vores overblik over udstyr og faciliteter labbet stiller til rådighed.](https://ddlabau.github.io/faciliteter-og-udstyr/)
 
 
 ## Vejledninger og eksempelkode
