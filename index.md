@@ -45,6 +45,8 @@ Guides til og information om lab'ets maskiner og tools.
 
 [COLOP e-mark](https://github.com/DDlabAU/Colop-Jet-Ink-Printer)
 
+[Vinylskærer - cricutmaker 3](https://github.com/DDlabAU/vinylcutter)
+
 
 ## Eksempler
 Projekter bygget i lab'et, der showcaser en eller flere teknologier. Hvis der mangler dokumentation, eller der er noget du ikke helt forstår, så kom forbi i [lab'ets åbningstid](https://ddlab.au.dk/).
