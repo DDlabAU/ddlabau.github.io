@@ -7,6 +7,8 @@ Her finder du links, vejledninger og eksempelkode til nogle af de teknologier og
 ## Vejledninger og eksempelkode
 Her finder du vejledninger og eksempelkode til nogle af de teknologier der udbydes i lab'et.
 
+[CircuitPython MEGAGUIDE: Board, komponenter og kode](https://github.com/DDlabAU/CircuitPython-and-STEMMA-QT)
+
 [Soil Moisture Sensor](https://github.com/DDlabAU/soil-moisture-sensor)
 
 [ESP Boards](https://github.com/DDlabAU/esp-boards)
