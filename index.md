@@ -45,7 +45,7 @@ Guides til og information om lab'ets maskiner og tools.
 
 [HTC Vive](https://github.com/DDlabAU/VR-Guide-)
 
-[COLOP e-mark](https://github.com/DDlabAU/Colop-Jet-Ink-Printer)
+[COLOP e-mark]([https://ddlabau.github.io/Colop-Jet-Ink-Printer/)
 
 [Vinylskærer - cricutmaker 3](https://github.com/DDlabAU/vinylcutter)
 
