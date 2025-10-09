@@ -33,8 +33,6 @@ Her finder du vejledninger og eksempelkode til nogle af de teknologier der udbyd
 ## Maskiner og tools
 Guides til og information om lab'ets maskiner og tools.
 
-[MYO - Gesture control sensor](https://ddlabau.github.io/myo-gesture-control-armband/)
-
 [3D Print](https://ddlabau.github.io/3dprinter/)
 
 [3D Scanning](https://github.com/DDlabAU/structure-sensor-3d-scanner)
@@ -52,6 +50,10 @@ Guides til og information om lab'ets maskiner og tools.
 [COLOP e-mark](https://ddlabau.github.io/Colop-Jet-Ink-Printer/)
 
 [Vinylskærer - cricutmaker 3](https://ddlabau.github.io/vinylcutter)
+
+[MYO - Gesture control sensor](https://ddlabau.github.io/myo-gesture-control-armband/)
+
+[Hands/finger tracking leap-motion python guide](https://ddlabau.github.io/LeapMotion-Python-Hyperion)
 
 
 ## Eksempler
