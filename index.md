@@ -49,7 +49,7 @@ Guides til og information om lab'ets maskiner og tools.
 
 [COLOP e-mark](https://ddlabau.github.io/Colop-Jet-Ink-Printer/)
 
-[Vinylskærer - cricutmaker 3](https://ddlabau.github.io/vinylcutter)
+[Vinylskærer - cricutmaker 3](https://ddlabau.github.io/Vinylcutter)
 
 [MYO - Gesture control sensor](https://ddlabau.github.io/myo-gesture-control-armband/)
 
