@@ -55,6 +55,8 @@ Guides til og information om lab'ets maskiner og tools.
 
 [Hands/finger tracking leap-motion python guide](https://ddlabau.github.io/LeapMotion-Python-Hyperion)
 
+[Symaskine](https://ddlab.github.io/Symaskine)
+
 
 ## Eksempler
 Projekter bygget i lab'et, der showcaser en eller flere teknologier. Hvis der mangler dokumentation, eller der er noget du ikke helt forstår, så kom forbi i [lab'ets åbningstid](https://ddlab.au.dk/).
