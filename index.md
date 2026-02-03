@@ -3,6 +3,8 @@ Her finder du links, vejledninger og eksempelkode til nogle af de teknologier og
 
 [Se også vores overblik over udstyr og faciliteter labbet stiller til rådighed.](https://ddlabau.github.io/faciliteter-og-udstyr/)
 
+[Kørekort-workshops](https://ddlabau.github.io/workshops/)
+
 
 ## Vejledninger og eksempelkode
 Her finder du vejledninger og eksempelkode til nogle af de teknologier der udbydes i lab'et.
