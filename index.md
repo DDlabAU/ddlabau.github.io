@@ -35,7 +35,7 @@ Her finder du vejledninger og eksempelkode til nogle af de teknologier der udbyd
 ## Maskiner og tools
 Guides til og information om lab'ets maskiner og tools.
 
-[Grovlab] (https://ddlabau.github.io/Grovlab/)
+[Grovlab](https://ddlabau.github.io/Grovlab/)
 
 [3D Print](https://ddlabau.github.io/3dprinter/)
 
