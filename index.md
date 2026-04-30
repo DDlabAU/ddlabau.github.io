@@ -61,7 +61,7 @@ Guides til og information om lab'ets maskiner og tools.
 
 [Symaskine](https://ddlabau.github.io/Symaskine)
 
-[Vakuum form](https://github.com/DDlabAU/vakuumForm.git)
+[Vakuum form](https:/ddlabau.io/vakuumForm)
 
 
 ## Eksempler
