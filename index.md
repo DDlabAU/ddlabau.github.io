@@ -62,17 +62,3 @@ Guides til og information om lab'ets maskiner og tools.
 [Symaskine](https://ddlabau.github.io/Symaskine)
 
 [Vakuum form](https://ddlabau.github.io/vakuumForm)
-
-
-## Eksempler
-Projekter bygget i lab'et, der showcaser en eller flere teknologier. Hvis der mangler dokumentation, eller der er noget du ikke helt forstår, så kom forbi i [lab'ets åbningstid](https://ddlab.au.dk/).
-
-[Ultrasound based power control](https://github.com/DDlabAU/volume)
-
-[tpic6b595 Shift register example code](https://github.com/DDlabAU/Using-shift-register)  
-
-[A lasercut robot with an 8x8 neopixel square for guts](https://github.com/DDlabAU/lab-botto)
-
-[Realtime Clock example code and tutorial link](https://github.com/DDlabAU/Realtime-clock-breakout-ddlab-opening-hours)  
-
-[capTouchDelfin](https://github.com/DDlabAU/capTouchDelfin)
