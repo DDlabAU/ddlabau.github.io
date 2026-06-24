@@ -6,32 +6,6 @@ Her finder du links, vejledninger og eksempelkode til nogle af de teknologier og
 [Kørekort-workshops](https://ddlabau.github.io/workshops/)
 
 
-## Vejledninger og eksempelkode
-Her finder du vejledninger og eksempelkode til nogle af de teknologier der udbydes i lab'et.
-
-[CircuitPython MEGAGUIDE: Board, komponenter og kode](https://ddlabau.github.io/CircuitPython-and-STEMMA-QT/)
-
-[Projection Mapping](https://ddlabau.github.io/projection-mapping/)
-
-[Soil Moisture Sensor](https://github.com/DDlabAU/soil-moisture-sensor)
-
-[ESP Boards](https://github.com/DDlabAU/esp-boards)
-
-[Wearables med LilyPad](https://ddlabau.github.io/lilypad-wearables/)
-
-[Varmekamera til Arduino](https://github.com/DDlabAU/thermal-camera-heatmap)
-
-[Polar Pulssensor](https://github.com/DDlabAU/heart-rate-sensor)
-
-[Timing i Arduino](https://github.com/DDlabAU/timing-i-arduino)
-
-[Kommunikation med Infrarød](https://github.com/DDlabAU/infrared-kommunikation)
-
-[ePaper displays til Arduino](https://github.com/DDlabAU/ePaper/tree/master/Adafruit%201.54''%20tri-color%20ePaper%20display)
-
-[Guide til Lyd og Interaktion - Pre-amp & Smokey Amp](https://github.com/DDlabAU/lm386-forstaerker-chip)
-
-
 ## Maskiner og tools
 Guides til og information om lab'ets maskiner og tools.
 
@@ -62,3 +36,29 @@ Guides til og information om lab'ets maskiner og tools.
 [Symaskine](https://ddlabau.github.io/Symaskine)
 
 [Vakuum form](https://ddlabau.github.io/vakuumForm)
+
+
+## Vejledninger og eksempelkode
+Her finder du vejledninger og eksempelkode til nogle af de teknologier der udbydes i lab'et.
+
+[CircuitPython MEGAGUIDE: Board, komponenter og kode](https://ddlabau.github.io/CircuitPython-and-STEMMA-QT/)
+
+[Projection Mapping](https://ddlabau.github.io/projection-mapping/)
+
+[Soil Moisture Sensor](https://github.com/DDlabAU/soil-moisture-sensor)
+
+[ESP Boards](https://github.com/DDlabAU/esp-boards)
+
+[Wearables med LilyPad](https://ddlabau.github.io/lilypad-wearables/)
+
+[Varmekamera til Arduino](https://github.com/DDlabAU/thermal-camera-heatmap)
+
+[Polar Pulssensor](https://github.com/DDlabAU/heart-rate-sensor)
+
+[Timing i Arduino](https://github.com/DDlabAU/timing-i-arduino)
+
+[Kommunikation med Infrarød](https://github.com/DDlabAU/infrared-kommunikation)
+
+[ePaper displays til Arduino](https://github.com/DDlabAU/ePaper/tree/master/Adafruit%201.54''%20tri-color%20ePaper%20display)
+
+[Guide til Lyd og Interaktion - Pre-amp & Smokey Amp](https://github.com/DDlabAU/lm386-forstaerker-chip)
